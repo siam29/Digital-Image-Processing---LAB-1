@@ -4,12 +4,6 @@
 
 Solve **all the questions** from **Question 25: Short Lab Assignment** in the attached PDF:
 
-> **Digital Image Processing — LAB 1
-
-## Task
-
-Solve **all the questions** from **Question 25: Short Lab Assignment** in the attached PDF:
-
 > **CSE 4454 — Digital Image Processing — Lab Experiment 01.pdf**
 
 ### Assignment Instructions
